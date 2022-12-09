@@ -40,13 +40,14 @@
 	margin-top: 20px;
 }
 .vid{
-	width: 100%;
+	width: 90%;
 	position: relative;
 	font-size: 30px;
 	display: inline-block;
 	margin-right: 10px;
-	height: 100px;
-	width: 120px;
+}
+video{
+	height: 150px;
 }
 .jue{
 	width: 100%;

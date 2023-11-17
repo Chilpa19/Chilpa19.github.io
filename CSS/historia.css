@@ -1,0 +1,142 @@
+.presen{
+	width: 100%;
+	position: relative;
+	font-size: 40px;
+	display: inline-block;
+	padding: 20px;
+	text-align: center;
+	top: 10px;
+}
+
+
+.prepa{
+	width: 90%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+
+.uni{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.c{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.diseño{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.im{
+	height: 300px;
+}
+.android{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.linux{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.bd{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.arduino{
+	margin-top: 10px;
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.git{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.java{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.python{
+	margin-top: 20px;
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.rd{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+.matlab{
+	width: 100%;
+	position: relative;
+	font-size: 30px;
+	display: inline-block;
+}
+
+@media only screen and (min-width:  992px){
+	.prepa{
+		width: 49%;
+	}
+	
+	.uni{
+		width: 49%;
+	}
+	.c{
+		width: 49%;
+	}
+	.linux{
+		width: 49%;
+	}
+	.android{
+		width: 49%;
+	}
+	.java{
+		width: 49%;
+	}
+	.git{
+		width: 49%;
+	}
+	.bd{
+		width: 49%;
+	}
+	.arduino{
+		width: 49%;
+	}
+	.diseño{
+		width: 49%;
+	}
+	.rd{
+		width: 49%;
+	}
+	.python{
+		width: 49%;
+	}
+	.matlab{
+		width: 49%;
+	}
+
+	.im{
+		height: 200px;
+	}
+}

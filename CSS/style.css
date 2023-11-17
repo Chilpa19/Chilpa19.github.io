@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #d8f8e1;
+    font-family: 'Zen Loop', cursive;
+
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    border-bottom: solid #c5c6c8;
+    font-weight: bolder;
+    box-shadow: 6px 6px 9px black;
+}
+
+header{
+    background-color: #c5c6c8;
+    padding: 19px;
+    position: fixed;
+    top: 0vh;
+    width: 100%;
+    z-index: 1;
+}
+
+nav{
+
+    display: inline-block;
+    padding: 1px;
+    font-size: 18px;
+    width: 90%;
+}
+
+nav li{
+    display: inline-block;
+    margin-right: 12px; 
+}
+
+.logo{
+    display: inline-block;
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+
+
+footer{
+    background-color: #c5c6c8;
+    width: 100%;
+    bottom: 0px;
+}
+
+main{
+
+    margin-top: 10vh;
+    margin-bottom: 20vh;
+}
+
+
+
+.footer__redes-sociales{
+    text-align: center;
+    margin: auto;
+}
+
+.footer__redes-sociales li{
+    display: inline-block;
+    position: relative;
+    padding: 20px;
+    width: 23%;
+}
+
+@media only screen and (min-width:  992px){
+    nav{
+        font-size: 30px;
+    }
+    nav li{
+        width: 23%;
+    }
+    .logo{
+        top: 15px;
+    }
+}
+
